@@ -8,7 +8,7 @@ export default function RSVP() {
   const confirmAttendance = () => {
     if (!name) return;
 
-   const phone = "529901504718";// Cambiar por el WhatsApp real
+   const phone = "529992807822";// Cambiar por el WhatsApp real
 
     const message = `Hola, soy ${name}. Confirmo mi asistencia a la celebración de los 50 años de Beatriz.`;
 
